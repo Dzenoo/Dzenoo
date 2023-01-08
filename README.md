@@ -14,8 +14,10 @@
 
 -💻 React | Express | Node.js | MongoDB.
 
--🚀 HTML, CSS, JAVASCRIPT
+-🚀 Html, Css, JavaScript, Sass
 
+
+[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=Dzenoo&show_icons=true)](https://github.com/AVS1508)
 
 <h1> Let's connect </h1>
 
