@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hey there! I'm Dzenis Gudzevic</h2>
 
-<!--
-**Dzenoo/Dzenoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> About Me </h1>
 
-Here are some ideas to get you started:
+-🚀 I'm full-stack developer with a passion for building modern web applications using the MERN stack
+-💻 My skills include proficiency in JavaScript, React, Node.js, and MongoDB. I have experience building responsive, scalable, and secure web applications.
+-💡 I have a strong ability to identify and solve problems, whether it's debugging code or finding creative solutions to technical challenges.
+-📚 I'm always looking to learn and improve my skills. In my spare time, I enjoy reading technical articles and taking online courses to stay up-to-date with the latest trends and best practices in web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Tech </h1>
+
+-💻 React | Express | Node.js | MongoDB.
+-🚀 HTML, CSS, JAVASCRIPT
+
+
+<h1> Let's connect </h1>
+
+<a href="https://dzenisgudzevic.netlify.app/">Portfolio</a>
+<a href="https://www.linkedin.com/in/dzenis-gudzevic-41460b244/">Linkedin</a>
+
+
+
