@@ -3,13 +3,17 @@
 <h1> About Me </h1>
 
 -🚀 I'm full-stack developer with a passion for building modern web applications using the MERN stack
+
 -💻 My skills include proficiency in JavaScript, React, Node.js, and MongoDB. I have experience building responsive, scalable, and secure web applications.
+
 -💡 I have a strong ability to identify and solve problems, whether it's debugging code or finding creative solutions to technical challenges.
+
 -📚 I'm always looking to learn and improve my skills. In my spare time, I enjoy reading technical articles and taking online courses to stay up-to-date with the latest trends and best practices in web development
 
 <h1> Tech </h1>
 
 -💻 React | Express | Node.js | MongoDB.
+
 -🚀 HTML, CSS, JAVASCRIPT
 
 
