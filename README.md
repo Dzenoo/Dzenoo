@@ -16,9 +16,6 @@
 
 -🚀 Html, Css, JavaScript, Sass
 
-
-[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=Dzenoo&show_icons=true)](https://github.com/AVS1508)
-
 <h1> Let's connect </h1>
 
 <a href="https://dzenisgudzevic.netlify.app/">Portfolio</a>
