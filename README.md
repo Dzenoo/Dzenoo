@@ -13,12 +13,12 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
         <strong>JavaScript</strong>
       </td>
       <td align="center" width="60" height="120"> 
-        ![2-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/24680a1e-af7d-4c9b-b334-aeafde734ff8)
+        <img src="https://github.com/Dzenoo/Dzenoo/assets/110186379/24680a1e-af7d-4c9b-b334-aeafde734ff8" />
         <br>
         <strong>Nextjs</strong>
      </td>
       <td align="center" width="60" height="120">
-        ![3-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/9ebe7d74-ebec-4842-9c27-3793973c017a)
+        <img src="https://github.com/Dzenoo/Dzenoo/assets/110186379/9ebe7d74-ebec-4842-9c27-3793973c017" />
         <br>
         <strong>MaterialUI</strong>
       </td>
