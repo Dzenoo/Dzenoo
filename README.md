@@ -8,7 +8,7 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
   <tbody>
     <tr>
       <td align="center" width="60" height="120">
-        ![1](https://github.com/Dzenoo/Dzenoo/assets/110186379/0ff99fa4-88cd-4c7c-b829-4ba73686b70b) 
+        <img src="https://github.com/Dzenoo/Dzenoo/assets/110186379/0ff99fa4-88cd-4c7c-b829-4ba73686b70b" />
         <br>
         <strong>JavaScript</strong>
       </td>
