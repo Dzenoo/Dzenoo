@@ -4,9 +4,9 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
 
 <h1> Fav Stack </h1>
 
-![1](https://github.com/Dzenoo/Dzenoo/assets/110186379/23646cd2-8509-4397-a473-5512060a48c6)
-![2](https://github.com/Dzenoo/Dzenoo/assets/110186379/27a6da9f-055c-49ae-b653-8335fd90ab6d)
-![3](https://github.com/Dzenoo/Dzenoo/assets/110186379/517a2104-e8e6-4b2f-999b-fd3352056d1c)
+![1-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/a15e7978-e17c-4dc1-973e-6c206bef9f1d)
+![2-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/d7c097d3-f652-41b1-a756-aefc30954d67)
+![3-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/8a6d7afd-ee39-4dac-b525-f39ec4be1b57)
 
 <h1> Let's connect </h1>
 
