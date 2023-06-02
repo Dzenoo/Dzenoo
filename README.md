@@ -13,7 +13,7 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
         <strong>JavaScript</strong>
       </td>
       <td align="center" width="120" height="120"> 
-        ![2-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/24680a1e-af7d-4c9b-b334-aeafde734ff8)
+        [![Next.js](https://img.shields.io/badge/Next.js-Framework-black)](https://nextjs.org/)
         <br>
         <strong>Nextjs</strong>
      </td>
