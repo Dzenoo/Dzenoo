@@ -7,17 +7,17 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
 <table> 
   <tbody>
     <tr>
-      <td align="center" width="120" height="120">
+      <td align="center" width="60" height="120">
         ![1](https://github.com/Dzenoo/Dzenoo/assets/110186379/0ff99fa4-88cd-4c7c-b829-4ba73686b70b) 
         <br>
         <strong>JavaScript</strong>
       </td>
-      <td align="center" width="120" height="120"> 
+      <td align="center" width="60" height="120"> 
         ![2-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/24680a1e-af7d-4c9b-b334-aeafde734ff8)
         <br>
         <strong>Nextjs</strong>
      </td>
-      <td align="center" width="120" height="120">
+      <td align="center" width="60" height="120">
         ![3-removebg-preview](https://github.com/Dzenoo/Dzenoo/assets/110186379/9ebe7d74-ebec-4842-9c27-3793973c017a)
         <br>
         <strong>MaterialUI</strong>
