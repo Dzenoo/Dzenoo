@@ -3,7 +3,7 @@
 As a highly skilled and motivated MERN developer with 2 years of experience, I am excited to apply my expertise to new challenges and opportunities. My passion for building dynamic, user-friendly web applications has driven me to stay up-to-date with the latest technologies and development trends, and I am confident that my skills and experience make me an excellent candidate for any role in the field.
 
 ## Current Stack
-![Untitled design](https://github.com/Dzenoo/Dzenoo/assets/110186379/7060c198-b6a3-47e9-8d62-010f3aebf560)
+![Untitled design (1)](https://github.com/Dzenoo/Dzenoo/assets/110186379/c30d3a07-5705-49c9-859c-665631b31d8c)
 
 
 ## Skills
