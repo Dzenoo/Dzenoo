@@ -11,7 +11,7 @@ As a highly skilled and motivated MERN developer with 2 years of experience, I a
 - **Front-end Development**: React, Next.js, HTML, CSS, JavaScript
 - **Back-end Development**: Node.js, Express.js, MongoDB
 - **Database**: MongoDB, Mongoose
-- **UI Frameworks**: Material-UI, Bootstrap
+- **UI Frameworks**: Material-UI, TailwindCSS
 - **Version Control**: Git, GitHub
 
 
