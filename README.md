@@ -3,7 +3,8 @@
 As a highly skilled and motivated Software developer with 2 years of experience, I am excited to apply my expertise to new challenges and opportunities. My passion for building dynamic, user-friendly web applications has driven me to stay up-to-date with the latest technologies and development trends, and I am confident that my skills and experience make me an excellent candidate for any role in the field.
 
 ## Current Stack
-![Untitled design](https://github.com/Dzenoo/Dzenoo/assets/110186379/e8c5d83b-287d-4cc9-8b80-007606417aab)
+![Untitled design](https://github.com/Dzenoo/Dzenoo/assets/110186379/d8968186-3c89-4a4f-82ad-26ebc2132fa1)
+
 
 
 ## Skills
