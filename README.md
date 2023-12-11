@@ -13,10 +13,6 @@ As a highly skilled and motivated Full Stack Developer with 3 years of experienc
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
 
-<h1> Let's connect </h1>
-
-<a href="https://dzenisgudzevic.netlify.app/">Portfolio</a>
-<a href="https://www.linkedin.com/in/dzenis-gudzevic-41460b244/">Linkedin</a>
-
+<h1> Let's connect </h1> href="https://www.linkedin.com/in/dzenis-gudzevic-41460b244/">Linkedin</a>
 
 
