@@ -14,3 +14,4 @@ As a highly skilled and motivated Full Stack Developer with 3 years of experienc
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
