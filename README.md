@@ -5,11 +5,12 @@ As a highly skilled and motivated Full Stack Developer with 3 years of experienc
 
 ## Skills
 
-- **Front-end Development**: React.Js, Next.Js, HTML, CSS, JavaScript, Typescript 
+- **Front-end Development**: React.Js, Next.Js, HTML, CSS, JavaScript, Typescript, Three.Js
 - **Back-end Development**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **UI Frameworks**: Material-UI, TailwindCSS, Shadcn
 - **Version Control**: Git, GitHub
+- **3D App**: Blender
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
