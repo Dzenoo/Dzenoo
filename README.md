@@ -10,7 +10,7 @@ I have 3+ years of experience as a Software Developer, specializing in a wide ra
 - **Database**: MongoDB, Mongoose
 - **UI Frameworks**: Material-UI, TailwindCSS, Shadcn
 - **Version Control**: Git, GitHub
-- **3D App**: Blender
+- **3D Softwares**: Blender
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
