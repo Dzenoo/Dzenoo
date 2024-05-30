@@ -1,7 +1,7 @@
 <h2> Hey there! 👋 I'm Dzenis Gudzevic</h2>
 <hr /> 
 
-I have 3+ years of experience as a Software Developer, specializing in a wide range of technologies. I have successfully completed multiple web development projects, creating robust and efficient solutions from start to finish. In addition to my expertise in front-end and back-end development, as well as server-side programming, authentication, and data storage, I also have a strong proficiency in Three.js and 3D development. I have applied these skills to create immersive 3D experiences and interactive web applications and websitesI
+I have 3+ years of experience as a Software Developer, specializing in a wide range of technologies. I have successfully completed multiple web development projects, creating robust and efficient solutions from start to finish. In addition to my expertise in front-end and back-end development, as well as server-side programming, authentication, and data storage, I also have a strong proficiency in Three.js and 3D development. I have applied these skills to create immersive 3D experiences and interactive web applications and websites
 
 ## Skills
 
