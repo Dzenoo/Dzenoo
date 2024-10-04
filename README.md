@@ -11,6 +11,7 @@ I have 4 years of experience as a Software Developer, specializing in a wide ran
 - **UI Frameworks**: Material-UI, TailwindCSS, Shadcn
 - **Version Control**: Git, GitHub
 - **3D Softwares**: Blender
+- **Deployment**: Docker, Vercel, Railway, Render
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on an exciting project!
