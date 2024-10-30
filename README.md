@@ -1,5 +1,4 @@
 <h2 align="center">Hey there! 👋 I'm Dzenis Gudzevic</h2>
-<hr />
 
 ---
 
@@ -58,7 +57,7 @@ Combining my front-end skills with **Three.js** and **React Three Fiber**, I bri
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dzenis-gudzevic-41460b244/" target="_blank">
+  <a href="https://www.linkedin.com/in/dzenis-gudzevic-41460b244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:dzenisgudzevic18@gmail.com" target="_blank">
