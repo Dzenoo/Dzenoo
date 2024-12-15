@@ -30,16 +30,6 @@ I’m a passionate software developer with 4 years of experience, specializing i
 
 ---
 
-### 🚀 Featured Projects
-
-- **[3D Interactive Portfolio]([https://github.com/username/3d-website](https://github.com/Dzenoo/3d-portfolio))**  
-  *A visually engaging 3D website portfolio built with Three.js, React Three Fiber, and React, featuring interactive elements for an immersive user experience.*
-  
-- **[Job Search Platform]([https://github.com/username/ecommerce](https://github.com/Dzenoo/Job-Searching-App))**  
-  *A full-stack platform using Node.js, Express, and MongoDB, with features like a job search, secure authentication, and an intuitive UI.*
-
----
-
 ### 🌐 3D Development Expertise
 
 Combining my front-end skills with **Three.js** and **React Three Fiber**, I bring unique visions to life by creating interactive and immersive 3D experiences on the web. Whether it's a product showcase, interactive demo, or virtual environment, my focus is on high-quality, performant visuals.
