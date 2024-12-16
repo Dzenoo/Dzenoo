@@ -1,7 +1,5 @@
 <h2 align="center">Hey there! 👋 I'm Dzenis Gudzevic</h2>
 
----
-
 ### 👨‍💻 About Me
 
 I’m a passionate software developer with 4 years of experience, specializing in full-stack and 3D development with **Three.js** and **React Three Fiber**. My expertise spans both front-end and back-end technologies, allowing me to build efficient, scalable applications and immersive 3D experiences for the web.
