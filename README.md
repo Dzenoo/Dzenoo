@@ -10,37 +10,24 @@ I’m a passionate software developer with 4 years of experience, specializing i
 
 ### 🔧 Skills
 
-| **Front-end Development** | **Back-end Development** | **Database** | **UI Frameworks** |
-| ------------------------- | ------------------------ | ------------ | ----------------- |
-| React.js, Next.js, Vite   | Node.js, Express.js      | MongoDB      | Material-UI       |
-| HTML, CSS, JavaScript     | Nest.js                  | SQLite       | TailwindCSS       |
-| Typescript, Three.js,     |                          | PostgreSQL   | Shadcn            |
-| React Three Fiber         |                          |              |                   |
+#### **Front-End Development**
+- **Frameworks & Libraries**: HTML, CSS, React.js, Next.js, Vite  
+- **Languages**: JavaScript, TypeScript  
+- **3D**: Three.js, React Three Fiber  
+- **Styling**: TailwindCSS, Material-UI, Shadcn, RadixUI  
 
-| **3D Development** | **Deployment** | **Cloud Services** | **ORM**          |
-| ------------------ | -------------- | ------------------ | -------------    |
-| Three.js, Blender  | Docker         | AWS                | Prisma, Mongoose |
-| React Three Fiber  | Vercel         |                    |                  |
-|                    | Railway, Render|                    |                  |
+#### **Back-End Development**
+- **Languages**: Node.js, 
+- **Frameworks & Libraries**: Express.js, Nest.js
 
-| **Tools**          | **APIs & Libraries** | 
-| ------------------ | -------------------- | 
-| Git, GitHub        | React Query          |
-| Postman, Figma     | NPM                  |
+#### **Databases**
+- MongoDB, PostgreSQL, SQLite  
 
----
+#### **UI/UX Tools**
+- Figma  
 
-### 🌐 3D Development Expertise
-
-Combining my front-end skills with **Three.js** and **React Three Fiber**, I bring unique visions to life by creating interactive and immersive 3D experiences on the web. Whether it's a product showcase, interactive demo, or virtual environment, my focus is on high-quality, performant visuals.
-
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dzenoo&show_icons=true&theme=radical" alt="Dzenis' GitHub Stats" />
-</p>
+#### **Deployment & Cloud**
+- Docker, Vercel, Railway, Render, AWS  
 
 ---
 
