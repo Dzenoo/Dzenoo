@@ -2,7 +2,8 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate software developer with 4+ years of experience, specializing in full-stack and 3D development with **Three.js** and **React Three Fiber**. My expertise spans both front-end and back-end technologies, allowing me to build efficient, scalable applications and immersive 3D experiences for the web.
+Building real-time, data-driven web systems where 3D acts as a spatial interface for monitoring and decision-making.
+Focus areas: real-time dashboards, state-driven visualizations and scalable frontend architectures.
 
 ---
 
