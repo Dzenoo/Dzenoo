@@ -12,7 +12,7 @@ Focus areas: real-time dashboards, state-driven visualizations and scalable fron
 #### **Front-End Development**
 - **Frameworks & Libraries**: HTML, CSS, React.js, Next.js, Vite  
 - **Languages**: JavaScript, TypeScript  
-- **3D**: Three.js, React Three Fiber  
+- **3D**: Three.js, React Three Fiber, WebGl, Shaders
 - **Styling**: TailwindCSS, Material-UI, Shadcn, RadixUI  
 
 #### **Back-End Development**
