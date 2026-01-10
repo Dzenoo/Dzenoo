@@ -1,10 +1,5 @@
 <h2 align="center">Hey there! 👋 I'm Dzenis Gudzevic</h2>
 
-### 👨‍💻 About Me
-
-Building real-time, data-driven web systems where 3D acts as a spatial interface for monitoring and decision-making.
-Focus areas: real-time dashboards, state-driven visualizations and scalable frontend architectures.
-
 ---
 
 ### 🔧 Skills
