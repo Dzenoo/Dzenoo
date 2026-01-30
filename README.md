@@ -8,7 +8,7 @@
 - **Frameworks & Libraries**: HTML, CSS, React.js, Next.js, Vite  
 - **Languages**: JavaScript, TypeScript  
 - **3D**: Three.js, React Three Fiber, WebGl, Shaders
-- **Styling**: TailwindCSS, Material-UI, Shadcn, RadixUI  
+- **Styling**: TailwindCSS, Material-UI, Shadcn, RadixUI, GSAP, Framer Motion  
 
 #### **Back-End Development**
 - **Languages**: Node.js, 
