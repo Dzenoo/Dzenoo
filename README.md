@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm Dzenis Gudzevic</h2>
+<h2 align="center">Hey there! 👋 I'm Dzenis</h2>
 
 ### 🔧 Skills
 
