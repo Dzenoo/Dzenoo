@@ -1,7 +1,5 @@
 <h2 align="center">Hey there! 👋 I'm Dzenis Gudzevic</h2>
 
----
-
 ### 🔧 Skills
 
 #### **Front-End Development**
