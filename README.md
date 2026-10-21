@@ -19,7 +19,7 @@
 - Figma  
 
 #### **Deployment & Cloud**
-- Docker, Vercel, Railway, Render, AWS  
+- Docker, Vercel, Railway, Render
 
 ---
 
